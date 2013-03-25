@@ -1,0 +1,11 @@
+[san-info]
+password: 
+san_gateway:
+server_iqn: 
+server_name: 
+[volumes]
+#put volumes here in the form of lunname: mount point
+[mount]
+mnt_point: /exports
+mnt_opts: 'ro,noatime,acl'
+
